@@ -1,0 +1,8 @@
+LICENSE
+Manifest
+README.rdoc
+Rakefile
+lib/m2-helper.rb
+lib/tools/utils.rb
+test/m2-helper_test.rb
+test/test_helper.rb
