@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Helper scripts for m2 store}
   s.email = %q{krishna.rokhale.sme@sonymusic.com}
   s.extra_rdoc_files = ["LICENSE", "README.rdoc", "lib/m2-helper.rb", "lib/tools/utils.rb"]
-  s.files = ["LICENSE", "Manifest", "README.rdoc", "Rakefile", "lib/m2-helper.rb", "lib/tools/utils.rb", "test/m2-helper_test.rb", "test/test_helper.rb", "m2-helper.gemspec"]
+  s.files = ["LICENSE", "Manifest", "README.rdoc", "Rakefile", "lib/m2-helper.rb", "lib/tools/utils.rb", "m2-helper.gemspec", "test/m2-helper_test.rb", "test/test_helper.rb"]
   s.homepage = %q{http://m2.sonymusic.com}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "M2-helper", "--main", "README.rdoc"]
   s.require_paths = ["lib"]

@@ -4,9 +4,9 @@ Usage:
 
 Theme Updater:
 
-install the gem using the .gem file in github ( will be making it live on github later so you can just do a sudo jgem install m2-helper)
+install the gem: ( If this does not work for some reason, get in touch with me! )
 
-sudo jgem install m2-helper-0.0.1.gem
+sudo jgem install m2-helper
 
 log into the console.
 
