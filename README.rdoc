@@ -10,6 +10,8 @@ sudo jgem install m2-helper-0.0.1.gem
 
 log into the console.
 
+require 'm2-helper'
+
 M2Helper::Utils.theme_updater("atom-smash-us,atom-smash-intl") 
 
 Can be entered in CSV format, with the first entry ( in this case atom-smash-us) should be the one with the updated theme, the others ( in this case atom-smash-intl) are the permalinks that need to be updated.
