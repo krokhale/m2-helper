@@ -4,5 +4,6 @@ README.rdoc
 Rakefile
 lib/m2-helper.rb
 lib/tools/utils.rb
+m2-helper.gemspec
 test/m2-helper_test.rb
 test/test_helper.rb
