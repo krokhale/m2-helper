@@ -41,5 +41,53 @@ class Utils
         
         return @result
    end
+   
+   def self.create_album(gpp_id,title)
+     
+     album = Music::Album.new
+     album.title = :title
+     album.artist_text = :artist_text 
+     album.disc_count = :disc_count     
+     album.save
+     part = Music::Participant.find(:artist_id)
+     album.artists << part
+     pop = Music::Genre.find(:genre_id)
+     album.genre << pop
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
  end
  end
+ 
+ 
+ 
+ 
